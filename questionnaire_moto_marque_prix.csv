@@ -1,0 +1,193 @@
+﻿vitesse,usage_principal,position_conduite,terrain,priorite,marque_preferee,tranche_prix_dh,modele_reference,prix_catalogue_dh,nature_prix,source_prix_url,date_consultation,origine_profil
+Beaucoup,Circuit,Droite,Asphalte,Style,KTM,70 000 à 99 999 DH,390 Duke,79000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Tout-terrain,Droite,Les deux,Fiabilité,Honda,70 000 à 99 999 DH,NX500 Adventure,84900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Moyennement,Tout-terrain,Penchée vers l’avant,Chemins,Fiabilité,KTM,100 000 à 149 999 DH,2026 250 SX-F,129000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Sans préférence,Asphalte,Confort,KTM,70 000 à 99 999 DH,390 Adventure R,89000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Sans préférence,Asphalte,Faible consommation,Yamaha,Moins de 40 000 DH,NMAX 125,39900,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Pas du tout,Ville,Sans préférence,Asphalte,Maniabilité,Yamaha,Moins de 40 000 DH,Cygnus RayZR,26500,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Moyennement,Tout-terrain,Penchée vers l’avant,Chemins,Accélération,KTM,100 000 à 149 999 DH,2026 250 SX-F,129000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Voyage,Légèrement penchée,Asphalte,Confort,Honda,100 000 à 149 999 DH,NC750X DCT,109900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Moyennement,Voyage,Droite,Les deux,Fiabilité,Honda,100 000 à 149 999 DH,NC750X DCT,109900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Droite,Les deux,Fiabilité,SYM,Moins de 40 000 DH,NHT 200,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Peu,Tout-terrain,Droite,Asphalte,Confort,Honda,150 000 à 199 999 DH,Africa Twin Adventure Sports,189000,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Pas du tout,Trajets quotidiens hors ville,Sans préférence,Asphalte,Coût d’entretien,Yamaha,Moins de 40 000 DH,Cygnus RayZR,26500,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Moyennement,Ville,Droite,Asphalte,Maniabilité,Honda,40 000 à 69 999 DH,SH (entrée de gamme),49000,bas de gamme affiché,https://moto.wandaloo.com/neuf/honda/sh/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Assise basse et détendue,Asphalte,Fiabilité,SYM,Moins de 40 000 DH,Jet X 125,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Balades,Sans préférence,Asphalte,Confort,Yamaha,Moins de 40 000 DH,NMAX 125,39900,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Sans préférence,Asphalte,Fiabilité,Honda,70 000 à 99 999 DH,CB500F,73900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Peu,Voyage,Sans préférence,Les deux,Fiabilité,Yamaha,150 000 à 199 999 DH,Tracer 9 GT Y-AMT,185000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Peu,Balades,Droite,Les deux,Polyvalence,KTM,150 000 à 199 999 DH,890 Adventure R,189000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Tout-terrain,Droite,Asphalte,Fiabilité,Honda,150 000 à 199 999 DH,Africa Twin Adventure Sports,189000,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Beaucoup,Voyage,Assise basse et détendue,Asphalte,Style,Yamaha,100 000 à 149 999 DH,XMAX 300 Tech MAX,125000,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Beaucoup,Balades,Légèrement penchée,Les deux,Accélération,Yamaha,150 000 à 199 999 DH,Tracer 9 GT Y-AMT,185000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Beaucoup,Circuit,Légèrement penchée,Chemins,Fiabilité,KTM,100 000 à 149 999 DH,2026 250 SX-F,129000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Ville,Sans préférence,Asphalte,Faible consommation,KTM,40 000 à 69 999 DH,125 Duke,69000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Pas du tout,Trajets quotidiens hors ville,Sans préférence,Asphalte,Fiabilité,Yamaha,Moins de 40 000 DH,NMAX 125,39900,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Beaucoup,Balades,Sans préférence,Les deux,Polyvalence,Honda,70 000 à 99 999 DH,NX500 Adventure,84900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Énormément,Voyage,Sans préférence,Asphalte,Accélération,Yamaha,150 000 à 199 999 DH,Tracer 9 GT Y-AMT,185000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Peu,Trajets quotidiens hors ville,Droite,Asphalte,Polyvalence,SYM,70 000 à 99 999 DH,ADX 400,85000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Légèrement penchée,Les deux,Accélération,Yamaha,150 000 à 199 999 DH,Tracer 9 GT Y-AMT,185000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Beaucoup,Balades,Droite,Asphalte,Coût d’entretien,Honda,40 000 à 69 999 DH,SH (entrée de gamme),49000,bas de gamme affiché,https://moto.wandaloo.com/neuf/honda/sh/,2026-11-18,simulé
+Beaucoup,Balades,Penchée vers l’avant,Asphalte,Accélération,KTM,100 000 à 149 999 DH,790 Duke,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Sans préférence,Les deux,Confort,Honda,150 000 à 199 999 DH,Africa Twin Adventure Sports,189000,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Beaucoup,Tout-terrain,Sans préférence,Les deux,Polyvalence,Honda,70 000 à 99 999 DH,NX500 Adventure,84900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Peu,Trajets quotidiens hors ville,Légèrement penchée,Les deux,Accélération,Yamaha,150 000 à 199 999 DH,Tracer 9 GT Y-AMT,185000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Beaucoup,Voyage,Droite,Chemins,Fiabilité,KTM,70 000 à 99 999 DH,390 Adventure R,89000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Sans préférence,Chemins,Polyvalence,Honda,150 000 à 199 999 DH,Africa Twin Adventure Sports,189000,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Peu,Voyage,Droite,Asphalte,Confort,Honda,150 000 à 199 999 DH,Africa Twin Adventure Sports,189000,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Moyennement,Balades,Penchée vers l’avant,Asphalte,Accélération,KTM,70 000 à 99 999 DH,390 Duke,79000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Trajets quotidiens hors ville,Droite,Asphalte,Maniabilité,KTM,70 000 à 99 999 DH,390 Adventure R,89000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Tout-terrain,Légèrement penchée,Chemins,Fiabilité,KTM,100 000 à 149 999 DH,2026 250 SX-F,129000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Tout-terrain,Sans préférence,Les deux,Confort,KTM,150 000 à 199 999 DH,890 Adventure R,189000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Balades,Penchée vers l’avant,Asphalte,Polyvalence,Yamaha,100 000 à 149 999 DH,MT-07,104500,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Moyennement,Voyage,Sans préférence,Les deux,Polyvalence,KTM,70 000 à 99 999 DH,390 Adventure R,89000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Voyage,Droite,Asphalte,Confort,SYM,40 000 à 69 999 DH,Joyride 300,45000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Voyage,Sans préférence,Asphalte,Polyvalence,KTM,150 000 à 199 999 DH,890 SMT,159000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Voyage,Sans préférence,Les deux,Polyvalence,KTM,150 000 à 199 999 DH,890 Adventure R,189000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Ville,Droite,Asphalte,Coût d’entretien,KTM,40 000 à 69 999 DH,125 Duke,69000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Ville,Assise basse et détendue,Asphalte,Polyvalence,Yamaha,100 000 à 149 999 DH,XMAX 300 Tech MAX,125000,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Moyennement,Balades,Sans préférence,Les deux,Confort,KTM,150 000 à 199 999 DH,890 Adventure R,189000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Balades,Droite,Asphalte,Confort,SYM,Moins de 40 000 DH,Symphony S 125,18000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Droite,Asphalte,Polyvalence,Yamaha,100 000 à 149 999 DH,MT-09,124000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Sans préférence,Asphalte,Confort,SYM,Moins de 40 000 DH,Jet X 125,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Droite,Asphalte,Polyvalence,Yamaha,100 000 à 149 999 DH,MT-09,124000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Moyennement,Ville,Sans préférence,Asphalte,Faible consommation,SYM,70 000 à 99 999 DH,ADX 400,85000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Énormément,Balades,Droite,Les deux,Fiabilité,KTM,100 000 à 149 999 DH,250 EXC-F,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Balades,Sans préférence,Asphalte,Coût d’entretien,Honda,70 000 à 99 999 DH,CB500F,73900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Énormément,Ville,Droite,Asphalte,Maniabilité,Yamaha,100 000 à 149 999 DH,MT-09,124000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Sans préférence,Asphalte,Coût d’entretien,SYM,Moins de 40 000 DH,Jet X 125,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Peu,Balades,Sans préférence,Asphalte,Coût d’entretien,Honda,70 000 à 99 999 DH,CB500F,73900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Peu,Ville,Assise basse et détendue,Asphalte,Coût d’entretien,Yamaha,Moins de 40 000 DH,Cygnus RayZR,26500,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Moyennement,Balades,Légèrement penchée,Asphalte,Faible consommation,Honda,70 000 à 99 999 DH,CB500F,73900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Moyennement,Circuit,Droite,Asphalte,Maniabilité,KTM,70 000 à 99 999 DH,390 Duke,79000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Énormément,Voyage,Sans préférence,Asphalte,Fiabilité,KTM,150 000 à 199 999 DH,890 SMT,159000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Ville,Droite,Asphalte,Maniabilité,Yamaha,100 000 à 149 999 DH,MT-07,104500,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Moyennement,Balades,Penchée vers l’avant,Asphalte,Polyvalence,Yamaha,100 000 à 149 999 DH,MT-09,124000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Peu,Ville,Assise basse et détendue,Asphalte,Faible consommation,Yamaha,100 000 à 149 999 DH,XMAX 300 Tech MAX,125000,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Droite,Asphalte,Maniabilité,KTM,40 000 à 69 999 DH,125 Duke,69000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Légèrement penchée,Asphalte,Polyvalence,KTM,100 000 à 149 999 DH,790 Duke,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Pas du tout,Balades,Droite,Asphalte,Faible consommation,Honda,40 000 à 69 999 DH,SH (entrée de gamme),49000,bas de gamme affiché,https://moto.wandaloo.com/neuf/honda/sh/,2026-11-18,simulé
+Beaucoup,Balades,Sans préférence,Les deux,Accélération,Honda,100 000 à 149 999 DH,NC750X DCT,109900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Beaucoup,Ville,Penchée vers l’avant,Asphalte,Accélération,Yamaha,100 000 à 149 999 DH,MT-07,104500,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Sans préférence,Asphalte,Confort,SYM,40 000 à 69 999 DH,Joyride 300,45000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Balades,Sans préférence,Chemins,Fiabilité,KTM,100 000 à 149 999 DH,250 EXC-F,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Légèrement penchée,Asphalte,Style,KTM,100 000 à 149 999 DH,790 Duke,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Voyage,Sans préférence,Asphalte,Confort,KTM,150 000 à 199 999 DH,890 Adventure R,189000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Tout-terrain,Sans préférence,Asphalte,Fiabilité,KTM,70 000 à 99 999 DH,390 Adventure R,89000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Balades,Droite,Asphalte,Fiabilité,KTM,40 000 à 69 999 DH,125 Duke,69000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Ville,Assise basse et détendue,Asphalte,Maniabilité,Honda,40 000 à 69 999 DH,SH (entrée de gamme),49000,bas de gamme affiché,https://moto.wandaloo.com/neuf/honda/sh/,2026-11-18,simulé
+Peu,Ville,Sans préférence,Asphalte,Fiabilité,Yamaha,Moins de 40 000 DH,Cygnus RayZR,26500,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Pas du tout,Ville,Assise basse et détendue,Asphalte,Fiabilité,SYM,Moins de 40 000 DH,Symphony S 125,18000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Balades,Sans préférence,Chemins,Polyvalence,KTM,100 000 à 149 999 DH,250 EXC-F,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Énormément,Balades,Droite,Asphalte,Accélération,Yamaha,100 000 à 149 999 DH,MT-07,104500,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Moyennement,Balades,Droite,Les deux,Confort,KTM,70 000 à 99 999 DH,390 Adventure R,89000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Tout-terrain,Droite,Asphalte,Confort,Honda,70 000 à 99 999 DH,NX500 Adventure,84900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Beaucoup,Ville,Droite,Asphalte,Fiabilité,KTM,40 000 à 69 999 DH,125 Duke,69000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Légèrement penchée,Asphalte,Accélération,Yamaha,100 000 à 149 999 DH,MT-07,104500,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Moyennement,Voyage,Sans préférence,Chemins,Polyvalence,KTM,150 000 à 199 999 DH,890 Adventure R,189000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Balades,Sans préférence,Les deux,Fiabilité,KTM,70 000 à 99 999 DH,390 Adventure R,89000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Ville,Sans préférence,Asphalte,Fiabilité,SYM,70 000 à 99 999 DH,ADX 400,85000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Voyage,Sans préférence,Asphalte,Accélération,Honda,100 000 à 149 999 DH,NC750X DCT,109900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Beaucoup,Ville,Sans préférence,Asphalte,Style,Yamaha,Moins de 40 000 DH,NMAX 125,39900,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Penchée vers l’avant,Asphalte,Style,KTM,100 000 à 149 999 DH,790 Duke,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Balades,Sans préférence,Les deux,Fiabilité,KTM,100 000 à 149 999 DH,250 EXC-F,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Ville,Sans préférence,Asphalte,Style,Yamaha,100 000 à 149 999 DH,XMAX 300 Tech MAX,125000,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Beaucoup,Ville,Légèrement penchée,Asphalte,Maniabilité,KTM,100 000 à 149 999 DH,790 Duke,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Légèrement penchée,Asphalte,Maniabilité,KTM,100 000 à 149 999 DH,790 Duke,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Balades,Penchée vers l’avant,Asphalte,Polyvalence,KTM,70 000 à 99 999 DH,390 Duke,79000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Voyage,Droite,Chemins,Confort,Honda,70 000 à 99 999 DH,NX500 Adventure,84900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Peu,Ville,Droite,Asphalte,Faible consommation,Yamaha,Moins de 40 000 DH,Cygnus RayZR,26500,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Énormément,Tout-terrain,Droite,Chemins,Fiabilité,KTM,100 000 à 149 999 DH,250 EXC-F,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Trajets quotidiens hors ville,Droite,Asphalte,Polyvalence,Yamaha,150 000 à 199 999 DH,Tracer 9 GT Y-AMT,185000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Peu,Trajets quotidiens hors ville,Sans préférence,Les deux,Accélération,KTM,150 000 à 199 999 DH,890 SMT,159000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Balades,Sans préférence,Asphalte,Coût d’entretien,SYM,Moins de 40 000 DH,Jet X 125,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Balades,Légèrement penchée,Asphalte,Style,KTM,100 000 à 149 999 DH,790 Duke,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Légèrement penchée,Les deux,Accélération,KTM,150 000 à 199 999 DH,890 SMT,159000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Balades,Sans préférence,Asphalte,Polyvalence,KTM,70 000 à 99 999 DH,390 Adventure R,89000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Pas du tout,Trajets quotidiens hors ville,Assise basse et détendue,Asphalte,Style,Yamaha,Moins de 40 000 DH,Cygnus RayZR,26500,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Peu,Ville,Sans préférence,Asphalte,Confort,SYM,Moins de 40 000 DH,Symphony S 125,18000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Circuit,Droite,Asphalte,Style,Yamaha,100 000 à 149 999 DH,MT-09,124000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Assise basse et détendue,Asphalte,Coût d’entretien,SYM,Moins de 40 000 DH,Jet X 125,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Voyage,Légèrement penchée,Asphalte,Fiabilité,Honda,100 000 à 149 999 DH,NC750X DCT,109900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Beaucoup,Ville,Assise basse et détendue,Asphalte,Confort,SYM,40 000 à 69 999 DH,Joyride 300,45000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Légèrement penchée,Asphalte,Fiabilité,KTM,150 000 à 199 999 DH,890 SMT,159000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Droite,Asphalte,Faible consommation,SYM,70 000 à 99 999 DH,ADX 400,85000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Balades,Droite,Chemins,Polyvalence,SYM,Moins de 40 000 DH,NHT 200,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Ville,Légèrement penchée,Asphalte,Faible consommation,Honda,70 000 à 99 999 DH,CB500F,73900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Moyennement,Voyage,Droite,Asphalte,Polyvalence,KTM,150 000 à 199 999 DH,890 SMT,159000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Balades,Légèrement penchée,Les deux,Confort,KTM,150 000 à 199 999 DH,890 SMT,159000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Balades,Droite,Les deux,Fiabilité,Honda,70 000 à 99 999 DH,NX500 Adventure,84900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Droite,Asphalte,Style,Yamaha,100 000 à 149 999 DH,MT-09,124000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Moyennement,Voyage,Sans préférence,Asphalte,Polyvalence,SYM,70 000 à 99 999 DH,ADX 400,85000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Sans préférence,Les deux,Confort,SYM,Moins de 40 000 DH,NHT 200,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Balades,Sans préférence,Les deux,Maniabilité,KTM,100 000 à 149 999 DH,250 EXC-F,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Droite,Les deux,Maniabilité,Honda,150 000 à 199 999 DH,Africa Twin Adventure Sports,189000,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Moyennement,Voyage,Sans préférence,Chemins,Polyvalence,SYM,Moins de 40 000 DH,NHT 200,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Balades,Sans préférence,Asphalte,Fiabilité,SYM,Moins de 40 000 DH,Symphony S 125,18000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Ville,Droite,Asphalte,Confort,Yamaha,Moins de 40 000 DH,Cygnus RayZR,26500,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Beaucoup,Balades,Assise basse et détendue,Asphalte,Fiabilité,SYM,Moins de 40 000 DH,Symphony S 125,18000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Balades,Sans préférence,Chemins,Fiabilité,Honda,70 000 à 99 999 DH,NX500 Adventure,84900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Pas du tout,Trajets quotidiens hors ville,Droite,Asphalte,Fiabilité,SYM,Moins de 40 000 DH,Symphony S 125,18000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Balades,Droite,Chemins,Maniabilité,KTM,100 000 à 149 999 DH,250 EXC-F,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Voyage,Droite,Asphalte,Style,SYM,40 000 à 69 999 DH,Joyride 300,45000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Balades,Droite,Asphalte,Coût d’entretien,Honda,70 000 à 99 999 DH,CB500F,73900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Beaucoup,Ville,Sans préférence,Asphalte,Fiabilité,SYM,40 000 à 69 999 DH,Joyride 300,45000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Tout-terrain,Droite,Chemins,Maniabilité,SYM,Moins de 40 000 DH,NHT 200,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Balades,Légèrement penchée,Asphalte,Confort,Yamaha,150 000 à 199 999 DH,Tracer 9 GT Y-AMT,185000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Moyennement,Ville,Sans préférence,Asphalte,Polyvalence,SYM,70 000 à 99 999 DH,ADX 400,85000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Ville,Assise basse et détendue,Asphalte,Confort,Yamaha,100 000 à 149 999 DH,XMAX 300 Tech MAX,125000,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Sans préférence,Asphalte,Faible consommation,Yamaha,Moins de 40 000 DH,Cygnus RayZR,26500,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Moyennement,Ville,Assise basse et détendue,Asphalte,Polyvalence,SYM,40 000 à 69 999 DH,Joyride 300,45000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Trajets quotidiens hors ville,Assise basse et détendue,Asphalte,Confort,Yamaha,Moins de 40 000 DH,NMAX 125,39900,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Pas du tout,Trajets quotidiens hors ville,Droite,Asphalte,Faible consommation,SYM,Moins de 40 000 DH,Symphony S 125,18000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Balades,Droite,Les deux,Polyvalence,Honda,100 000 à 149 999 DH,NC750X DCT,109900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Moyennement,Balades,Assise basse et détendue,Asphalte,Coût d’entretien,Honda,40 000 à 69 999 DH,SH (entrée de gamme),49000,bas de gamme affiché,https://moto.wandaloo.com/neuf/honda/sh/,2026-11-18,simulé
+Moyennement,Ville,Sans préférence,Asphalte,Confort,Yamaha,100 000 à 149 999 DH,XMAX 300 Tech MAX,125000,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Peu,Trajets quotidiens hors ville,Sans préférence,Asphalte,Maniabilité,SYM,Moins de 40 000 DH,Symphony S 125,18000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Moyennement,Balades,Sans préférence,Asphalte,Fiabilité,Honda,40 000 à 69 999 DH,SH (entrée de gamme),49000,bas de gamme affiché,https://moto.wandaloo.com/neuf/honda/sh/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Assise basse et détendue,Asphalte,Fiabilité,SYM,40 000 à 69 999 DH,Joyride 300,45000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Énormément,Trajets quotidiens hors ville,Légèrement penchée,Asphalte,Fiabilité,Yamaha,150 000 à 199 999 DH,Tracer 9 GT Y-AMT,185000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Pas du tout,Ville,Assise basse et détendue,Asphalte,Style,SYM,Moins de 40 000 DH,Jet X 125,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Ville,Légèrement penchée,Asphalte,Polyvalence,Yamaha,100 000 à 149 999 DH,MT-09,124000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Pas du tout,Balades,Droite,Asphalte,Coût d’entretien,Honda,40 000 à 69 999 DH,SH (entrée de gamme),49000,bas de gamme affiché,https://moto.wandaloo.com/neuf/honda/sh/,2026-11-18,simulé
+Énormément,Balades,Sans préférence,Asphalte,Accélération,Honda,100 000 à 149 999 DH,NC750X DCT,109900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Peu,Tout-terrain,Sans préférence,Les deux,Confort,SYM,Moins de 40 000 DH,NHT 200,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Peu,Balades,Légèrement penchée,Asphalte,Maniabilité,KTM,40 000 à 69 999 DH,125 Duke,69000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Penchée vers l’avant,Asphalte,Maniabilité,KTM,70 000 à 99 999 DH,390 Duke,79000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Énormément,Balades,Légèrement penchée,Asphalte,Style,Yamaha,100 000 à 149 999 DH,MT-07,104500,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Peu,Balades,Droite,Asphalte,Confort,KTM,150 000 à 199 999 DH,890 Adventure R,189000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Tout-terrain,Sans préférence,Les deux,Maniabilité,KTM,100 000 à 149 999 DH,250 EXC-F,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Ville,Assise basse et détendue,Asphalte,Confort,SYM,70 000 à 99 999 DH,ADX 400,85000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Énormément,Ville,Penchée vers l’avant,Asphalte,Polyvalence,Yamaha,100 000 à 149 999 DH,MT-07,104500,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Pas du tout,Trajets quotidiens hors ville,Droite,Asphalte,Coût d’entretien,Yamaha,Moins de 40 000 DH,NMAX 125,39900,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Pas du tout,Ville,Assise basse et détendue,Asphalte,Coût d’entretien,Honda,40 000 à 69 999 DH,SH (entrée de gamme),49000,bas de gamme affiché,https://moto.wandaloo.com/neuf/honda/sh/,2026-11-18,simulé
+Moyennement,Circuit,Légèrement penchée,Chemins,Fiabilité,KTM,100 000 à 149 999 DH,2026 250 SX-F,129000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Circuit,Légèrement penchée,Chemins,Accélération,KTM,100 000 à 149 999 DH,2026 250 SX-F,129000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Énormément,Balades,Légèrement penchée,Les deux,Accélération,KTM,150 000 à 199 999 DH,890 SMT,159000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Tout-terrain,Légèrement penchée,Chemins,Maniabilité,KTM,100 000 à 149 999 DH,2026 250 SX-F,129000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Pas du tout,Trajets quotidiens hors ville,Assise basse et détendue,Asphalte,Fiabilité,SYM,Moins de 40 000 DH,Jet X 125,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Énormément,Trajets quotidiens hors ville,Légèrement penchée,Asphalte,Polyvalence,Yamaha,100 000 à 149 999 DH,MT-07,104500,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Beaucoup,Ville,Légèrement penchée,Asphalte,Style,KTM,40 000 à 69 999 DH,125 Duke,69000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Tout-terrain,Légèrement penchée,Chemins,Fiabilité,KTM,100 000 à 149 999 DH,2026 250 SX-F,129000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Balades,Sans préférence,Chemins,Maniabilité,SYM,Moins de 40 000 DH,NHT 200,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Énormément,Balades,Penchée vers l’avant,Asphalte,Accélération,KTM,70 000 à 99 999 DH,390 Duke,79000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Ville,Légèrement penchée,Asphalte,Fiabilité,Honda,70 000 à 99 999 DH,CB500F,73900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Moyennement,Tout-terrain,Sans préférence,Asphalte,Confort,Honda,150 000 à 199 999 DH,Africa Twin Adventure Sports,189000,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Peu,Voyage,Droite,Chemins,Polyvalence,Honda,150 000 à 199 999 DH,Africa Twin Adventure Sports,189000,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Beaucoup,Balades,Penchée vers l’avant,Asphalte,Polyvalence,Yamaha,100 000 à 149 999 DH,MT-09,124000,à partir de,https://mifa-motors.ma/categorie-produit/moto/,2026-11-18,simulé
+Peu,Trajets quotidiens hors ville,Droite,Les deux,Fiabilité,Honda,100 000 à 149 999 DH,NC750X DCT,109900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Peu,Ville,Sans préférence,Asphalte,Style,KTM,40 000 à 69 999 DH,125 Duke,69000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Ville,Droite,Asphalte,Fiabilité,Honda,70 000 à 99 999 DH,CB500F,73900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Peu,Trajets quotidiens hors ville,Sans préférence,Chemins,Polyvalence,SYM,Moins de 40 000 DH,NHT 200,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Énormément,Trajets quotidiens hors ville,Légèrement penchée,Asphalte,Accélération,KTM,100 000 à 149 999 DH,790 Duke,139000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Énormément,Ville,Droite,Asphalte,Maniabilité,KTM,70 000 à 99 999 DH,390 Duke,79000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Peu,Trajets quotidiens hors ville,Droite,Asphalte,Polyvalence,Honda,70 000 à 99 999 DH,NX500 Adventure,84900,prix listing tiers,https://www.motora.ma/fr/marques/honda,2026-11-18,simulé
+Peu,Ville,Droite,Asphalte,Polyvalence,SYM,70 000 à 99 999 DH,ADX 400,85000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Voyage,Sans préférence,Chemins,Confort,KTM,150 000 à 199 999 DH,890 Adventure R,189000,prix affiché,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Beaucoup,Trajets quotidiens hors ville,Sans préférence,Asphalte,Fiabilité,Yamaha,Moins de 40 000 DH,NMAX 125,39900,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Peu,Ville,Assise basse et détendue,Asphalte,Fiabilité,Yamaha,100 000 à 149 999 DH,XMAX 300 Tech MAX,125000,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Beaucoup,Ville,Penchée vers l’avant,Asphalte,Polyvalence,KTM,70 000 à 99 999 DH,390 Duke,79000,prix affiché avec ancien prix,https://www.ktm.ma/liste-de-prix/,2026-11-18,simulé
+Moyennement,Ville,Droite,Asphalte,Maniabilité,Yamaha,Moins de 40 000 DH,NMAX 125,39900,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé
+Moyennement,Ville,Assise basse et détendue,Asphalte,Coût d’entretien,SYM,Moins de 40 000 DH,Jet X 125,33000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Beaucoup,Voyage,Sans préférence,Asphalte,Fiabilité,SYM,40 000 à 69 999 DH,Joyride 300,45000,prix guide tiers,https://bonmaroc.com/moto/,2026-11-18,simulé
+Peu,Trajets quotidiens hors ville,Assise basse et détendue,Asphalte,Faible consommation,Yamaha,100 000 à 149 999 DH,XMAX 300 Tech MAX,125000,à partir de,https://mifa-motors.ma/categorie-produit/scooter/,2026-11-18,simulé

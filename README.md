@@ -29,3 +29,7 @@ python -m streamlit run interface_moto.py
 Le CSV contient 192 profils simulés associés à 24 références Yamaha, KTM, Honda et SYM. Les liens vers MIFA Motors, KTM Maroc et les guides ou annonces tiers sont indiqués dans `source_prix_url`.
 
 L’arbre utilise uniquement les cinq réponses pour prédire une paire marque–modèle. L’application récupère ensuite le prix de cette référence dans le CSV. Les prix sont des relevés indicatifs, avec leur date et leur source. Les profils simulés servent à démontrer le pipeline. La fiabilité des recommandations auprès de vrais utilisateurs reste à évaluer.
+
+## Crédits
+
+Projet réalisé par **[Younes Radouani](https://github.com/younesdebug)**.
